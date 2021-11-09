@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BarisFK
+- 👀 I’m interested in coding and software
+- 🌱 I’m currently learning C#

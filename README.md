@@ -1,3 +1,7 @@
-- 👋 Hi, I’m @BarisFK
-- 👀 I’m interested in coding and software
-- 🌱 I’m currently learning C#
+👋 Merhaba, ben @BarisFK!
+
+💻 Kodlamaya ve yazılım benim alanım.
+
+🚀 Şu anda Makine Görüsü(OpenCV) ve Makine Öğrenimi gibi konularla ilgileniyor ve kendimi sürekli geliştirmeye çalışıyorum.
+
+

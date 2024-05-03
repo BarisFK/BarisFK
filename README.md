@@ -8,16 +8,15 @@ Kodlamaya büyük bir tutkuyla bağlıyım ve bu yolda sürekli yeni şeyler ö�
 Şu anda Makine Görüsü(OpenCV) ve Makine Öğrenimi gibi konularla ilgileniyor ve kendimi sürekli geliştirmeye çalışıyorum.
 
 ## Becerilerim
-- **Diller**:
-  - Python <span style="background-color:green;color:white;padding:2px 6px;border-radius:4px;">Python</span>
-  - C# <span style="background-color:yellow;color:black;padding:2px 6px;border-radius:4px;">C#</span>
-  - Kotlin <span style="background-color:green;color:white;padding:2px 6px;border-radius:4px;">Kotlin</span>
-  - Dart <span style="background-color:green;color:white;padding:2px 6px;border-radius:4px;">Dart</span>
-  - PHP <span style="background-color:yellow;color:black;padding:2px 6px;border-radius:4px;">PHP</span>
+- **Languages and Tools**:
+  - ![Python](https://img.shields.io/badge/Python-green?style=flat-square)
+  - ![C#](https://img.shields.io/badge/C%23-yellow?style=flat-square)
+  - ![Kotlin](https://img.shields.io/badge/Kotlin-green?style=flat-square)
+  - ![Dart](https://img.shields.io/badge/Dart-green?style=flat-square)
+  - ![PHP](https://img.shields.io/badge/PHP-yellow?style=flat-square)
+ 
 
-- **Teknolojiler**:
- -OpenCV
- -MySQL
+  - Opencv
 
 
 ## İletişim

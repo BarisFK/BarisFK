@@ -10,13 +10,16 @@ Kodlamaya büyük bir tutkuyla bağlıyım ve bu yolda sürekli yeni şeyler ö�
 ## Becerilerim
 - **Languages and Tools**:
   - ![Python](https://img.shields.io/badge/Python-green?style=flat-square)
-  - ![C#](https://img.shields.io/badge/C%23-yellow?style=flat-square)
   - ![Kotlin](https://img.shields.io/badge/Kotlin-green?style=flat-square)
   - ![Dart](https://img.shields.io/badge/Dart-green?style=flat-square)
+  - ![C#](https://img.shields.io/badge/C%23-yellow?style=flat-square)
   - ![PHP](https://img.shields.io/badge/PHP-yellow?style=flat-square)
  
 
-  - Opencv
+  | Opencv  | Firebase | XAMPP  | Unity  | Flutter | Figma  |
+| ------- | -------- | ------ | ------ | ------- | ------ |
+| ![Opencv](https://img.shields.io/badge/OpenCV-blue?style=flat-square) | ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square) | ![XAMPP](https://img.shields.io/badge/XAMPP-green?style=flat-square) | ![Unity](https://img.shields.io/badge/Unity-grey?style=flat-square) | ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square) | ![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square) |
+
 
 
 ## İletişim

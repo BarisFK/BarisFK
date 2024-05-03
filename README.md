@@ -1,6 +1,6 @@
 # Merhaba, ben Barış Fahri Kahrıman! 👋
 
-!Profile views
+
 
 ## Hakkımda
 Kocaeli Üniversitesinde Bilişim Sist. Müh. 3.sınıf öğrencisiyim 

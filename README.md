@@ -9,11 +9,11 @@ Kodlamaya büyük bir tutkuyla bağlıyım ve bu yolda sürekli yeni şeyler ö�
 
 ## Becerilerim
 - **Diller**:
-  - Python ![Python](https://img.shields.io/badge/-Python-green)
-  - C# ![C#](https://img.shields.io/badge/-C%23-yellow)
-  - Kotlin ![Kotlin](https://img.shields.io/badge/-Kotlin-green)
-  - Dart ![Dart](https://img.shields.io/badge/-Dart-green)
-  - PHP ![PHP](https://img.shields.io/badge/-PHP-yellow)
+  - ![Python](https://img.shields.io/badge/-Python-green)
+  - ![C#](https://img.shields.io/badge/-C%23-yellow)
+  - ![Kotlin](https://img.shields.io/badge/-Kotlin-green)
+  - ![Dart](https://img.shields.io/badge/-Dart-green)
+  - ![PHP](https://img.shields.io/badge/-PHP-yellow)
 
 
 

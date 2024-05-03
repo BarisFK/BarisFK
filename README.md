@@ -9,9 +9,7 @@ Kodlamaya büyük bir tutkuyla bağlıyım ve bu yolda sürekli yeni şeyler ö�
 
 
 ## Becerilerim
-- **Diller**: Python, C++, Java
-- **Teknolojiler**: OpenCV, TensorFlow, PyTorch
-- **Araçlar**: Git, Docker, Jupyter
+- **Diller**: Python, C# , Kotlin , Dart ,PHP
 
 ## İletişim
 - **LinkedIn**: [Barış Fahri Kahrıman](https://www.linkedin.com/in/bar%C4%B1%C5%9F-fahri-kahr%C4%B1man/)

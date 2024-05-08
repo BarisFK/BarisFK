@@ -4,7 +4,7 @@
 
 ## About Me
 I'm a 3rd year student of Information Systems Engineering at Kocaeli University. I'm a passionate about coding and I'm constantly learning new things on this path.
-I'm currently interested in topics such as Machine Vision (OpenCV) and Machine Learning and I am constantly trying to improve myself.
+I'm currently interested in topics such as Machine Vision (OpenCV) and Machine Learning.
 
 ## Skills
 - **Languages and Tools**:

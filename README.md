@@ -6,7 +6,7 @@
 <h3 align="center" style="color:#00CC00;">About Me</h3>
 <br/>
 <div align="center" style="color:#00CC00;">
-  I am a third-year Information Systems Engineering student at Kocaeli University with a strong passion for coding and a dedication to continuous learning. Currently, my interests lie in the fields of Machine Vision, particularly with OpenCV, and Machine Learning. I have previously developed mobile and web projects, and I am eager to deepen my knowledge and skills in these areas to apply them to real-world problems.
+  I am a fourth-year Information Systems Engineering student at Kocaeli University with a strong passion for coding and a dedication to continuous learning. Currently, my interests lie in the fields of Computer Vision and Machine Learning. I have previously developed mobile and web projects, and I am eager to deepen my knowledge and skills in these areas to apply them to real-world problems.
 </div>
 
 <hr/>

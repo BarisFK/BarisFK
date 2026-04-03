@@ -33,19 +33,17 @@
 <h3 align="center">Must-See Projects</h3>
 <div align="center">
   <a href="https://github.com/BarisFK/BeeByte">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=BarisFK&repo=BeeByte&theme=gotham&border_radius=20" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarisFK&repo=BeeByte&theme=gotham&border_radius=20" width="400"/>
   </a>
   <a href="https://github.com/BarisFK/Uzum_YOLO8">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=BarisFK&repo=Uzum_YOLO8&theme=gotham&border_radius=20" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarisFK&repo=Uzum_YOLO8&theme=gotham&border_radius=20" width="400"/>
   </a>
   <a href="https://github.com/BarisFK/Brypto">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=BarisFK&repo=Brypto&theme=gotham&border_radius=20" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarisFK&repo=Brypto&theme=gotham&border_radius=20" width="400"/>
   </a>
   <a href="https://github.com/BarisFK/PrintUp">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=BarisFK&repo=PrintUp&theme=gotham&border_radius=20" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarisFK&repo=PrintUp&theme=gotham&border_radius=20" width="400"/>
   </a>
-  
-  
 </div>
 
 <hr/>

@@ -1,7 +1,7 @@
 # Hi 👋 I'm Barış Fahri Kahrıman
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=00CC00&vCenter=true&width=600&lines=Information+Systems+Engineer;Mobile+Devoloper;AI+Researcher;Computer+Vision+and+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=00CC00&vCenter=true&width=600&lines=Developer+by+Code,+Photographer+by+Vision" alt="Typing SVG" />
 </h2>
 
 <hr/>
@@ -10,6 +10,7 @@ Information Systems Engineer specializing in **Mobile Development**, **Machine L
 
 * 📧 **Email:** [bfk.develop@gmail.com](mailto:bfk.develop@gmail.com)
 * 🔗 **LinkedIn:** [Barış Fahri Kahrıman](https://linkedin.com/in/baris-fahri-kahriman)
+* 📷 **Photography:** [Pexels](https://www.pexels.com/@baris-fahri-kahriman-168783450/)
 
 <hr/>
 
